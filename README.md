@@ -10,5 +10,6 @@ cd into folder
 ```
 npm-install
 ```
+```
 node app.js
 ```
