@@ -8,7 +8,7 @@ clone git
 cd into folder
 ```
 ```
-npm-install
+npm install
 ```
 ```
 node app.js
